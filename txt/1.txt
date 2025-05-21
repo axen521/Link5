@@ -1,0 +1,158 @@
+1. Wohin fährst du gern in den Urlaub?
+Antwort: Ich fahre gern ans Meer.
+
+2. Fährst du lieber ans Meer oder in die Berge?
+Antwort: Ich fahre lieber ans Meer.
+
+3. Wie fährst du in den Urlaub – mit dem Auto, Zug oder Flugzeug?
+Antwort: Ich fahre meistens mit dem Auto.
+
+4. Mit wem machst du Urlaub?
+Antwort: Ich mache Urlaub mit meiner Familie.
+
+5. Wann machst du Urlaub?
+Antwort: Ich mache in den Sommerferien Urlaub.
+
+6. Wie lange bleibst du im Urlaub?
+Antwort: Ich bleibe eine Woche im Urlaub.
+
+7. Was machst du gern im Urlaub?
+Antwort: Ich schwimme und entspanne mich gern.
+
+8. Magst du Camping?
+Antwort: Nein, ich mag Camping nicht.
+
+9. Wohnst du im Hotel oder in einer Ferienwohnung?
+Antwort: Ich wohne im Hotel.
+
+10. Hast du eine Reise gemacht?
+Antwort: Ja, ich habe eine Reise gemacht.
+
+11. Wo bist du letzten Sommer im Urlaub gewesen?
+Antwort: Ich war in Antalya.
+
+12. Wie war das Wetter dort?
+Antwort: Es war sehr sonnig und heiß.
+
+13. Was isst du im Urlaub?
+Antwort: Ich esse gerne Fisch und Obst.
+
+14. Welche Sehenswürdigkeiten besuchst du?
+Antwort: Ich besuche historische Orte und Museen.
+
+15. Ist der Urlaub entspannend oder anstrengend?
+Antwort: Der Urlaub ist entspannend.
+
+16. Gibt es viele Touristen?
+Antwort: Ja, es gibt viele Touristen.
+
+17. Wie ist das Hotel oder die Unterkunft?
+Antwort: Das Hotel ist bequem und sauber.
+
+18. Bist du am Strand?
+Antwort: Ja, ich bin oft am Strand.
+
+19. Lernst du neue Leute kennen?
+Antwort: Ja, ich lerne manchmal neue Leute kennen.
+
+20. Wie lange dauert die Reise?
+Antwort: Die Reise dauert ungefähr fünf Stunden.
+
+21. Hattest du Verspätung beim Flug oder Zug?
+Antwort: Nein, ich hatte keine Verspätung.
+
+22. Musstest du am Flughafen lange warten?
+Antwort: Nein, ich musste nicht lange warten.
+
+23. Hattest du Probleme mit dem Gepäck?
+Antwort: Nein, ich hatte keine Probleme.
+
+24. Wie war der Flug oder die Zugfahrt?
+Antwort: Der Flug war ruhig.
+
+25. Was machst du auf der Reise?
+Antwort: Ich höre Musik oder lese.
+
+26. Warst du im Ausland?
+Antwort: Ja, ich war im Ausland.
+
+27. Welche Sprache sprichst du dort?
+Antwort: Ich spreche Englisch.
+
+28. Machst du Fotos?
+Antwort: Ja, ich mache viele Fotos.
+
+29. Welche Stadt gefällt dir am besten?
+Antwort: Istanbul gefällt mir am besten.
+
+30. Wohin möchtest du nächstes Jahr reisen?
+Antwort: Ich möchte nach Deutschland reisen.
+
+31. Was möchtest du im Urlaub erleben?
+Antwort: Ich möchte neue Orte sehen.
+
+32. Möchtest du eine Rundreise machen?
+Antwort: Ja, ich möchte eine Rundreise machen.
+
+33. Willst du eine neue Kultur kennenlernen?
+Antwort: Ja, das finde ich sehr interessant.
+
+34. Welche Länder willst du noch besuchen?
+Antwort: Ich will Italien und Spanien besuchen.
+
+35. Reist du lieber allein oder mit Freunden?
+Antwort: Ich reise lieber mit Freunden.
+
+36. Willst du in Zukunft eine Kreuzfahrt machen?
+Antwort: Ja, das wäre schön.
+
+37. Wie sieht dein Traumurlaub aus?
+Antwort: Mein Traumurlaub ist auf einer tropischen Insel.
+
+38. Welche Aktivitäten planst du für deinen nächsten Urlaub?
+Antwort: Ich plane zu schwimmen und spazieren zu gehen.
+
+39. Möchtest du in einem anderen Land arbeiten oder studieren?
+Antwort: Ja, ich möchte in Deutschland studieren.
+
+40. Was nimmst du mit auf die Reise?
+Antwort: Ich nehme Kleidung, Handy und Bücher mit.
+
+41. Wie findest du das Wetter in den Alpen?
+Antwort: Ich finde es kühl und frisch.
+
+42. Was machst du, wenn es regnet?
+Antwort: Ich bleibe im Hotel oder lese ein Buch.
+
+43. Musst du in Istanbul umsteigen?
+Antwort: Ja, ich muss dort umsteigen.
+
+44. Mit welchem Verkehrsmittel reist du am liebsten?
+Antwort: Ich reise am liebsten mit dem Auto.
+
+45. Bist du schon einmal mit dem Schiff gefahren?
+Antwort: Ja, ich bin mit dem Schiff gefahren.
+
+46. Hast du schon eine Reise ins Ausland gemacht?
+Antwort: Ja, ich war in Griechenland.
+
+47. Wie war das Klima in Spanien?
+Antwort: Es war heiß und sonnig.
+
+48. Warst du schon in der Ägäischen Region?
+Antwort: Ja, ich war dort.
+
+49. Reist du lieber im Sommer oder im Winter?
+Antwort: Ich reise lieber im Sommer.
+
+50. Wann kommt dein Zug an?
+Antwort: Mein Zug kommt um 15 Uhr an.
+
+51. Wo steigst du aus dem Bus aus?
+Antwort: Ich steige am Bahnhof aus.
+
+52. Fährst du allein oder mit deiner Familie?
+Antwort: Ich fahre mit meiner Familie.
+
+53. Was findest du schöner – das Meer oder die Berge?
+Antwort: Ich finde das Meer schöner.
